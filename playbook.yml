@@ -1,0 +1,5 @@
+---
+- hosts: monero
+  roles:
+    - { role: ac0rnsoup.monero }
+    

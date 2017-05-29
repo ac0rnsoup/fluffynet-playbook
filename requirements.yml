@@ -1,0 +1,3 @@
+- src: https://github.com/ac0rnsoup/monero-role
+  name: ac0rnsoup.monero
+  version: master

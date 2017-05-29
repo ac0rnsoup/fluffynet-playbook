@@ -1,0 +1,3 @@
+[monero]
+localhost ansible_connection=local
+
