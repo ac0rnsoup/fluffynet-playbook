@@ -1,4 +1,7 @@
 ---
+monero_git: https://github.com/ac0rnsoup/monero.git
+monero_version: v0.10.3.1f
+
 monerod_p2p_bind_port: 18096
 monerod_rpc_bind_port: 18097
 monerod_rpc_bind_ip: 0.0.0.0
