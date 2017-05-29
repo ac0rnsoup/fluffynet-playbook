@@ -1,7 +1,7 @@
 ---
 monerod_p2p_bind_port: 18096
 monerod_rpc_bind_port: 18097
-monerod_rpc_bind_ip=0.0.0.0
+monerod_rpc_bind_ip: 0.0.0.0
 monerod_p2p_open_port: true
 monerod_rpc_open_port: true
 
