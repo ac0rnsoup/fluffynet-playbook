@@ -36,3 +36,4 @@ monerod_exclusive_nodes:
 monerod_confirm_external_bind: 1
 monerod_hide_my_port: 1
 monerod_log_level: 2,net.p2p.msg:INFO
+monerod_logrotate_keep: 7
